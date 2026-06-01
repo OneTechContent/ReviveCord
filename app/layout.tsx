@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'ReviveCord',
-  description: 'Manage your Discord servers, bots, and backups from one clean dashboard.',
+  description: 'Sign in or create an account for ReviveCord.',
   generator: 'v0.app',
   icons: {
     icon: [
