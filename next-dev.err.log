@@ -1,0 +1,8 @@
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3001
+- PID:          20788
+- Dir:          C:\Users\adaml\Downloads\revive-cord-dashboard-design
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 20788 /F to stop it.
